@@ -1,0 +1,86 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.linha{
+    border:7px solid brown;
+    border-radius: 7px;
+    margin-top: 15px;
+}
+
+input[type=email],
+input[type=tel],
+input[type=password]{
+    background-color: rgb(176, 233, 250);
+    padding: 10px;
+    border-style: none;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#nome{
+    background-color: rgb(176, 233, 250);
+    padding: 10px;
+    border-style: none;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+
+#cadastrar{
+    padding: 10px;
+    background-color: yellow;
+    border: 3px solid rgb(160, 0, 160);
+    border-radius: 6px;
+}
+
+p{
+    font-weight: bold;
+    color: brown;
+}
+
+h1{
+    color: brown;
+}
+
+#textarea1{
+    background-color:rgb(176, 233, 250) ;
+    border-radius: 6px;
+    height: 80px;
+    width: 800px;
+    resize: none;
+}
+
+
+#form{
+    border-color: rgb(160, 0, 160);
+    border-radius: 5px;
+    color:rgb(160, 0, 160);
+}
+
+#enviar{
+    color: blue;
+}
+
+input[type=search]{
+    border: 2px solid  red;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+}
+
+#clique{
+    padding: 14px;
+    border-radius:12px;
+    background-color: black;
+    color: red;
+    font-size: 16px;
+    border-style: none;
+    border: 2px solid red;
+}
+
+#cor{
+    border: 3px solid rgb(196, 183, 0);
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+}
